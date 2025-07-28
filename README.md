@@ -8,7 +8,6 @@ A complete medical AI pipeline to classify 14 common thoracic diseases from fron
 - **Source**: NIH ChestX-ray14
 - **Images**: 112,120 frontal-view X-rays from 30,805 unique patients
 - **Labels**: Multi-label disease annotations (14 classes)
-- **Format**: CSV file `Data_Entry_2017.csv` + 12 image folders `images_001` to `images_012`
 
 ---
 
